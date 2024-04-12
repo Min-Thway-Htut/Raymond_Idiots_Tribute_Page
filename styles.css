@@ -2,11 +2,12 @@ h1{
     text-align: center;
     color: aliceblue;
     font-size: 60px;
+    color:rgb(184, 108, 1);
   }
 
 h2{
     text-align: center;
-    color: aliceblue;
+    color:rgb(143, 158, 158);
     font-size: 45px;
 }
 
@@ -51,7 +52,7 @@ li{
   #family-image{
     display: block;
     max-width: 100%;
-    height: 700px;
+    height: 600px;
     width:600px;
     margin-left:auto;
     margin-right:auto;
