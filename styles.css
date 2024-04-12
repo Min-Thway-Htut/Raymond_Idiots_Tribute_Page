@@ -51,10 +51,11 @@ li{
   #family-image{
     display: block;
     max-width: 100%;
-    height: 750px;
+    height: 700px;
     width:600px;
     margin-left:auto;
     margin-right:auto;
+    border-radius: 10%;
   }
 
 #idiots-logo{
@@ -63,9 +64,10 @@ li{
   margin-right: auto;
   padding-top: auto;
   padding-bottom: auto;
-  max-width: 500px;
-  width: 500px;
-  height: 500px;
+  max-width: 400px;
+  width: 400px;
+  height: 400px;
+  border-radius: 10%;
 }
   
   .childhood h2{
