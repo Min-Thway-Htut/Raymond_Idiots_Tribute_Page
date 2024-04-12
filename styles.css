@@ -63,6 +63,9 @@ li{
   margin-right: auto;
   padding-top: auto;
   padding-bottom: auto;
+  max-width: 500px;
+  width: 500px;
+  height: 500px;
 }
   
   .childhood h2{
